@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="GIF/Earth.gif" width="24px">
-  𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;! <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif">
+  𝐇𝐞𝐥𝐥𝐨, I am Juan Manuel Ospina Garcia! <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif">
   <img src="GIF/Hi.gif" width="40px" />
 </h1>
 
@@ -23,7 +23,6 @@
 
 
 
-#
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
 	<a href="mailto:juanmanuelospina536@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
@@ -33,7 +32,6 @@
 	<a href="https://www.facebook.com/juan.manuel.ospina.garcia.2025/"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
 	<a href="https://www.instagram.com/juanmanuelospina536/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
-#
 
 
 #
@@ -56,7 +54,6 @@
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
    </a>
 </p>
-#
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
  
@@ -89,12 +86,7 @@
 </p>
 
 
-### Spotify Playing 🎧
-### Spotify Playing 🎧
 
-<a href="https://open.spotify.com/user/31snwmjonfkuf6tvmg5sqehvmwrm" target="_blank">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31snwmjonfkuf6tvmg5sqehvmwrm&cover_image=true&theme=bar" alt="Spotify" width="400">
-</a>
 
 
 

@@ -87,6 +87,18 @@
     <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
 
 </p>
+
+
+### Spotify Playing 🎧
+
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31snwmjonfkuf6tvmg5sqehvmwrm&cover_image=true&theme=novatorem)](https://open.spotify.com/user/31snwmjonfkuf6tvmg5sqehvmwrm)
+
+---
+
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
+
+
+
 ![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/GovindSingh9447/GovindSingh9447/blob/main/github-contribution-grid-snake.svg)
 
 <br/>

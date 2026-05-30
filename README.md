@@ -90,10 +90,11 @@
 
 
 ### Spotify Playing 🎧
-<a href="https://open.spotify.com/user/31snwmjonfkuf6tvmg5sqehvmwrm" target="_blank">
-  <img src="https://novatorem.bgstatic.vercel.app/api/spotify" alt="Spotify" width="400">
-</a>
+### Spotify Playing 🎧
 
+<a href="https://open.spotify.com/user/31snwmjonfkuf6tvmg5sqehvmwrm" target="_blank">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31snwmjonfkuf6tvmg5sqehvmwrm&cover_image=true&theme=bar" alt="Spotify" width="400">
+</a>
 
 
 

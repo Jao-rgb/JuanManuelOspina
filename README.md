@@ -11,12 +11,12 @@
 
 
 
-- 🔭 I’m currently working on **GRANTHAGRA-'Android Application for Students.**
-- 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **GoLang 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐.**
-- 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **𝙰𝚗𝚍𝚛𝚘𝚒𝚍, Design or DevOps .**
-- 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://github.com/GovindSingh9447/GovindSingh9447/issues/2) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
-- 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜.**
-- ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **𝙱𝚎𝚜𝚝 𝙿𝚊𝚛𝚝 𝙾𝚏 𝚃𝚑𝚎 𝙹𝚘𝚞𝚛𝚗𝚎𝚢 𝙸𝚜 : *𝙸𝚝 𝙴𝚗𝚍𝚜.***
+* 🔭 I’m a Software Development student looking to join a tech team as a **QA/Junior Tester** or **Frontend Developer**, eager to contribute to real-world projects while completing my degree.
+* 🌱 I’m currently strengthening my skills in **React, JavaScript, Tailwind CSS**, and web optimization.
+* 👯 I’m looking to collaborate on **Frontend Development, E-commerce Solutions, and Software Testing/QA initiatives**.
+* 💬 Ask Me About Anything regarding responsive web design, custom e-commerce setups, or building digital products! I am happy to help.
+* 😄 Pronouns: He/Him/His.
+* ⚡ Fun fact: When I'm not coding or looking for bugs, you'll probably find me tweaking graphics shaders, customizing gaming setups, or researching automotive mechanics.
 
 <br/>
 <br/>

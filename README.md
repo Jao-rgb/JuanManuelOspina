@@ -91,9 +91,7 @@
 
 ### Spotify Playing 🎧
 
-<a href="https://open.spotify.com/user/31snwmjonfkuf6tvmg5sqehvmwrm" target="_blank">
-  <img src="https://novatorem.bgstatic.vercel.app/api/spotify" alt="Spotify" width="400">
-</a>
+
 
 
 
